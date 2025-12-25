@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaanshsrv/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaanshsrv/Portfolio/issues"
+  },
+  "homepage": "https://github.com/shivaanshsrv/Portfolio#readme",
+  "dependencies": {
+    "framer-motion": "^12.23.26",
+    "gsap": "^3.14.2",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}

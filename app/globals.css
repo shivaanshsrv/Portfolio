@@ -1,0 +1,17 @@
+* { margin:0; padding:0; box-sizing:border-box;}
+body { font-family: sans-serif; background:#F9F7F4; color:#000; }
+
+nav.navbar{
+  width:100%;
+  padding:20px 40px;
+  display:flex; justify-content:space-between;
+  position:sticky; top:0; background:white; z-index:20;
+}
+
+.hero{
+  height:100vh;
+  display:flex; flex-direction:column;
+  justify-content:center; align-items:center;
+  text-align:center;
+  padding:60px;
+}
